@@ -25,4 +25,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Primary Skills:</h3>
+
+<p align="left">
+<img src="https://img.shields.io/badge/SQL-Expert-blue?style=for-the-badge&logo=postgresql" />
+<img src="https://img.shields.io/badge/BigQuery-Analytics-orange?style=for-the-badge&logo=googlecloud" />
+<img src="https://img.shields.io/badge/Python-Automation-green?style=for-the-badge&logo=python" />
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishwanathmalli&show_icons=true&locale=en&layout=compact" alt="vishwanathmalli" /></p>
